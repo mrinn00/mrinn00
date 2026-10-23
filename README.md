@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi! I'm Mrinmoyee!🪴
 
-<!--
-**mrinn00/mrinn00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building fun, creative projects, and I want to work on technology that makes people’s lives a little better.
 
-Here are some ideas to get you started:
+> *"The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform."*
+> — **Ada Lovelace**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Languages:** TypeScript, JavaScript, Python, Java, C++  
+**Frameworks & Tools:** React, Node.js, FastAPI, PostgreSQL, Arduino and embedded systems
+
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mrinmoyee-mishra/)
+
+
